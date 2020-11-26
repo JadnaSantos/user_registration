@@ -9,4 +9,7 @@ In this project I used Django again
 `pip install django-allauth`
 
     pip install django-crispy-forms
+    
+    
+creditos: Fabio Ruicci
 
