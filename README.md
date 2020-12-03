@@ -10,7 +10,11 @@ In this project I used Django again
 
     pip install django-crispy-forms
     
+    
+    
 ### 🔧 Technology
+
+
 
 Tools used in the construction of the project:
 
@@ -25,4 +29,7 @@ Tools used in the construction of the project:
 - [x] Users Register
 - [x] Client Register
 - [ ] Products Register
+
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
