@@ -10,6 +10,19 @@ In this project I used Django again
 
     pip install django-crispy-forms
     
-    
-creditos: Fabio Ruicci
+### 🔧 Technology
+
+Tools used in the construction of the project:
+
+- [Python](https://www.python.org/)
+- [Django](https://www.djangoproject.com/)
+
+
+
+
+### Features
+
+- [x] Users Register
+- [x] Client Register
+- [ ] Products Register
 
